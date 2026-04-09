@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Bruno! 👋
 
-<!--
-**Bruno-Silva-Freitas/Bruno-Silva-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software e apaixonado por tecnologia. Atualmente focado em aprender C# e o ecossistema .NET.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias que estou estudando:
+- *Linguagem:* C#
+- *Framework:* .NET
+- *Ferramentas:* Visual Studio, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Objetivos para 2026:
+- [ ] Dominar a lógica de programação
+- [ ] Criar meus primeiros sistemas em C#
+- [ ] Iniciar a faculdade de ADS/Engenharia
+
+---
+📫 *Como me encontrar:* www.linkedin.com/in/bruno-silva-freitas
